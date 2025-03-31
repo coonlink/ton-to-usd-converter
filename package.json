@@ -1,0 +1,10 @@
+{
+  "name": "ton-to-usd-converter",
+  "version": "1.0.0",
+  "description": "A lightweight client-side converter for TON to USD with auto-DOM updates",
+  "main": "index.js",
+  "author": "coonlink",
+  "license": "MIT",
+  "keywords": ["ton", "usd", "crypto", "converter", "client-side"],
+  "type": "module"
+}
