@@ -1,0 +1,24 @@
+{
+  "name": "coonlink/ton-to-usd-converter",
+  "description": "Client-side TON to USD converter using live rates from api.coonlink.fun",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Coonlink",
+      "email": "admin@coonlink.fun"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Coonlink\\TonToUsd\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.0-dev"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
